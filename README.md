@@ -40,3 +40,5 @@ The following commands are used:
 - `vagrant halt` to puth the machine into a stopped state
 
 - `vagrant destroy` to discard the machine
+
+> inside browser:   `http://<ip address>:8080`

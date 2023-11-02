@@ -41,6 +41,9 @@ The following commands are used:
 
 - `vagrant destroy` to discard the machine
 
+- > inside browser:   `http://<ip address>:8080`
+
+
 ## Reading Books
 
 Reading books are a very good way to get started at understanding some concepts better.

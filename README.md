@@ -42,3 +42,4 @@ The following commands are used:
 - `vagrant destroy` to discard the machine
 
 > inside browser:   `http://<ip address>:8080`
+
